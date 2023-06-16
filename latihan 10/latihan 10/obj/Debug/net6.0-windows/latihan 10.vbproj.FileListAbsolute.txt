@@ -1,0 +1,17 @@
+D:\aplikasi\latihan 10\latihan 10\bin\Debug\net6.0-windows\latihan 10.exe
+D:\aplikasi\latihan 10\latihan 10\bin\Debug\net6.0-windows\latihan 10.deps.json
+D:\aplikasi\latihan 10\latihan 10\bin\Debug\net6.0-windows\latihan 10.runtimeconfig.json
+D:\aplikasi\latihan 10\latihan 10\bin\Debug\net6.0-windows\latihan 10.dll
+D:\aplikasi\latihan 10\latihan 10\bin\Debug\net6.0-windows\latihan 10.pdb
+D:\aplikasi\latihan 10\latihan 10\obj\Debug\net6.0-windows\latihan 10.vbproj.AssemblyReference.cache
+D:\aplikasi\latihan 10\latihan 10\obj\Debug\net6.0-windows\latihan_10.Form1.resources
+D:\aplikasi\latihan 10\latihan 10\obj\Debug\net6.0-windows\latihan 10.vbproj.GenerateResource.cache
+D:\aplikasi\latihan 10\latihan 10\obj\Debug\net6.0-windows\latihan 10.GeneratedMSBuildEditorConfig.editorconfig
+D:\aplikasi\latihan 10\latihan 10\obj\Debug\net6.0-windows\latihan 10.AssemblyInfoInputs.cache
+D:\aplikasi\latihan 10\latihan 10\obj\Debug\net6.0-windows\latihan 10.AssemblyInfo.vb
+D:\aplikasi\latihan 10\latihan 10\obj\Debug\net6.0-windows\latihan 10.vbproj.CoreCompileInputs.cache
+D:\aplikasi\latihan 10\latihan 10\obj\Debug\net6.0-windows\latihan 10.dll
+D:\aplikasi\latihan 10\latihan 10\obj\Debug\net6.0-windows\refint\latihan 10.dll
+D:\aplikasi\latihan 10\latihan 10\obj\Debug\net6.0-windows\latihan 10.pdb
+D:\aplikasi\latihan 10\latihan 10\obj\Debug\net6.0-windows\latihan 10.genruntimeconfig.cache
+D:\aplikasi\latihan 10\latihan 10\obj\Debug\net6.0-windows\ref\latihan 10.dll

@@ -1,0 +1,17 @@
+D:\aplikasi\tugas 8\tugas 8\bin\Debug\net6.0-windows\tugas 8.exe
+D:\aplikasi\tugas 8\tugas 8\bin\Debug\net6.0-windows\tugas 8.deps.json
+D:\aplikasi\tugas 8\tugas 8\bin\Debug\net6.0-windows\tugas 8.runtimeconfig.json
+D:\aplikasi\tugas 8\tugas 8\bin\Debug\net6.0-windows\tugas 8.dll
+D:\aplikasi\tugas 8\tugas 8\bin\Debug\net6.0-windows\tugas 8.pdb
+D:\aplikasi\tugas 8\tugas 8\obj\Debug\net6.0-windows\tugas 8.vbproj.AssemblyReference.cache
+D:\aplikasi\tugas 8\tugas 8\obj\Debug\net6.0-windows\tugas_8.Form1.resources
+D:\aplikasi\tugas 8\tugas 8\obj\Debug\net6.0-windows\tugas 8.vbproj.GenerateResource.cache
+D:\aplikasi\tugas 8\tugas 8\obj\Debug\net6.0-windows\tugas 8.GeneratedMSBuildEditorConfig.editorconfig
+D:\aplikasi\tugas 8\tugas 8\obj\Debug\net6.0-windows\tugas 8.AssemblyInfoInputs.cache
+D:\aplikasi\tugas 8\tugas 8\obj\Debug\net6.0-windows\tugas 8.AssemblyInfo.vb
+D:\aplikasi\tugas 8\tugas 8\obj\Debug\net6.0-windows\tugas 8.vbproj.CoreCompileInputs.cache
+D:\aplikasi\tugas 8\tugas 8\obj\Debug\net6.0-windows\tugas 8.dll
+D:\aplikasi\tugas 8\tugas 8\obj\Debug\net6.0-windows\refint\tugas 8.dll
+D:\aplikasi\tugas 8\tugas 8\obj\Debug\net6.0-windows\tugas 8.pdb
+D:\aplikasi\tugas 8\tugas 8\obj\Debug\net6.0-windows\tugas 8.genruntimeconfig.cache
+D:\aplikasi\tugas 8\tugas 8\obj\Debug\net6.0-windows\ref\tugas 8.dll
