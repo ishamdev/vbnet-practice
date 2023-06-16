@@ -5,4 +5,4 @@ Make app for counting time
 
 <h3>Latihan 10 </h3>
 
-Make app for counting time 
+Make app for Check Odd Even
