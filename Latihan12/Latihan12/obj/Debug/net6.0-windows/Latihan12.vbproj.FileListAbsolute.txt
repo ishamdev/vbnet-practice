@@ -1,0 +1,17 @@
+D:\aplikasi\Latihan12\Latihan12\bin\Debug\net6.0-windows\Latihan12.exe
+D:\aplikasi\Latihan12\Latihan12\bin\Debug\net6.0-windows\Latihan12.deps.json
+D:\aplikasi\Latihan12\Latihan12\bin\Debug\net6.0-windows\Latihan12.runtimeconfig.json
+D:\aplikasi\Latihan12\Latihan12\bin\Debug\net6.0-windows\Latihan12.dll
+D:\aplikasi\Latihan12\Latihan12\bin\Debug\net6.0-windows\Latihan12.pdb
+D:\aplikasi\Latihan12\Latihan12\obj\Debug\net6.0-windows\Latihan12.vbproj.AssemblyReference.cache
+D:\aplikasi\Latihan12\Latihan12\obj\Debug\net6.0-windows\Latihan12.Form1.resources
+D:\aplikasi\Latihan12\Latihan12\obj\Debug\net6.0-windows\Latihan12.vbproj.GenerateResource.cache
+D:\aplikasi\Latihan12\Latihan12\obj\Debug\net6.0-windows\Latihan12.GeneratedMSBuildEditorConfig.editorconfig
+D:\aplikasi\Latihan12\Latihan12\obj\Debug\net6.0-windows\Latihan12.AssemblyInfoInputs.cache
+D:\aplikasi\Latihan12\Latihan12\obj\Debug\net6.0-windows\Latihan12.AssemblyInfo.vb
+D:\aplikasi\Latihan12\Latihan12\obj\Debug\net6.0-windows\Latihan12.vbproj.CoreCompileInputs.cache
+D:\aplikasi\Latihan12\Latihan12\obj\Debug\net6.0-windows\Latihan12.dll
+D:\aplikasi\Latihan12\Latihan12\obj\Debug\net6.0-windows\refint\Latihan12.dll
+D:\aplikasi\Latihan12\Latihan12\obj\Debug\net6.0-windows\Latihan12.pdb
+D:\aplikasi\Latihan12\Latihan12\obj\Debug\net6.0-windows\Latihan12.genruntimeconfig.cache
+D:\aplikasi\Latihan12\Latihan12\obj\Debug\net6.0-windows\ref\Latihan12.dll
