@@ -92,9 +92,9 @@ Partial Class Form1
         Label7.Font = New Font("Segoe UI Semibold", 9F, FontStyle.Bold, GraphicsUnit.Point)
         Label7.Location = New Point(246, 75)
         Label7.Name = "Label7"
-        Label7.Size = New Size(69, 15)
+        Label7.Size = New Size(78, 15)
         Label7.TabIndex = 13
-        Label7.Text = "Reamur      :"
+        Label7.Text = "Reamur         :"
         ' 
         ' txt_reamur
         ' 
@@ -160,19 +160,19 @@ Partial Class Form1
         Label2.Font = New Font("Segoe UI Semibold", 9F, FontStyle.Bold, GraphicsUnit.Point)
         Label2.Location = New Point(64, 107)
         Label2.Name = "Label2"
-        Label2.Size = New Size(117, 15)
+        Label2.Size = New Size(168, 15)
         Label2.TabIndex = 4
-        Label2.Text = "Nilai yang dikonversi"
+        Label2.Text = "Nilai yang dikonversi                :"
         ' 
         ' Label3
         ' 
         Label3.AutoSize = True
         Label3.Font = New Font("Segoe UI Semibold", 9F, FontStyle.Bold, GraphicsUnit.Point)
-        Label3.Location = New Point(64, 152)
+        Label3.Location = New Point(63, 148)
         Label3.Name = "Label3"
-        Label3.Size = New Size(150, 15)
+        Label3.Size = New Size(168, 15)
         Label3.TabIndex = 5
-        Label3.Text = "Satuan Suhu dalam derajat"
+        Label3.Text = "Satuan Suhu dalam derajat     :"
         ' 
         ' Label4
         ' 
@@ -180,14 +180,14 @@ Partial Class Form1
         Label4.Font = New Font("Segoe UI Semibold", 9F, FontStyle.Bold, GraphicsUnit.Point)
         Label4.Location = New Point(64, 192)
         Label4.Name = "Label4"
-        Label4.Size = New Size(135, 15)
+        Label4.Size = New Size(168, 15)
         Label4.TabIndex = 6
-        Label4.Text = "Angka dibelakang koma"
+        Label4.Text = "Angka dibelakang koma          :"
         ' 
         ' koma
         ' 
         koma.FormattingEnabled = True
-        koma.Location = New Point(241, 192)
+        koma.Location = New Point(242, 188)
         koma.Name = "koma"
         koma.Size = New Size(121, 23)
         koma.TabIndex = 7
