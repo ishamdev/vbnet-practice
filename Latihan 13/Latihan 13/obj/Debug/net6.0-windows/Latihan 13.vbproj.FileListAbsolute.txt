@@ -1,0 +1,17 @@
+E:\aplikasi\Latihan 13\Latihan 13\bin\Debug\net6.0-windows\Latihan 13.exe
+E:\aplikasi\Latihan 13\Latihan 13\bin\Debug\net6.0-windows\Latihan 13.deps.json
+E:\aplikasi\Latihan 13\Latihan 13\bin\Debug\net6.0-windows\Latihan 13.runtimeconfig.json
+E:\aplikasi\Latihan 13\Latihan 13\bin\Debug\net6.0-windows\Latihan 13.dll
+E:\aplikasi\Latihan 13\Latihan 13\bin\Debug\net6.0-windows\Latihan 13.pdb
+E:\aplikasi\Latihan 13\Latihan 13\obj\Debug\net6.0-windows\Latihan 13.vbproj.AssemblyReference.cache
+E:\aplikasi\Latihan 13\Latihan 13\obj\Debug\net6.0-windows\Latihan_13.Form1.resources
+E:\aplikasi\Latihan 13\Latihan 13\obj\Debug\net6.0-windows\Latihan 13.vbproj.GenerateResource.cache
+E:\aplikasi\Latihan 13\Latihan 13\obj\Debug\net6.0-windows\Latihan 13.GeneratedMSBuildEditorConfig.editorconfig
+E:\aplikasi\Latihan 13\Latihan 13\obj\Debug\net6.0-windows\Latihan 13.AssemblyInfoInputs.cache
+E:\aplikasi\Latihan 13\Latihan 13\obj\Debug\net6.0-windows\Latihan 13.AssemblyInfo.vb
+E:\aplikasi\Latihan 13\Latihan 13\obj\Debug\net6.0-windows\Latihan 13.vbproj.CoreCompileInputs.cache
+E:\aplikasi\Latihan 13\Latihan 13\obj\Debug\net6.0-windows\Latihan 13.dll
+E:\aplikasi\Latihan 13\Latihan 13\obj\Debug\net6.0-windows\refint\Latihan 13.dll
+E:\aplikasi\Latihan 13\Latihan 13\obj\Debug\net6.0-windows\Latihan 13.pdb
+E:\aplikasi\Latihan 13\Latihan 13\obj\Debug\net6.0-windows\Latihan 13.genruntimeconfig.cache
+E:\aplikasi\Latihan 13\Latihan 13\obj\Debug\net6.0-windows\ref\Latihan 13.dll
