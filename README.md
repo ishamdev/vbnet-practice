@@ -16,3 +16,6 @@ Make simple app for Saving simulation
 
 <h3>Latihan 13</h3>
 Make simple app for temperature conversion
+
+<h3>Latihan 14</h3>
+Make simple App for count Break Event Point (BEP)
