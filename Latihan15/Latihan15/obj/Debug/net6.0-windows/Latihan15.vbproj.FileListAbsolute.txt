@@ -1,0 +1,17 @@
+E:\aplikasi\Latihan15\Latihan15\bin\Debug\net6.0-windows\Latihan15.exe
+E:\aplikasi\Latihan15\Latihan15\bin\Debug\net6.0-windows\Latihan15.deps.json
+E:\aplikasi\Latihan15\Latihan15\bin\Debug\net6.0-windows\Latihan15.runtimeconfig.json
+E:\aplikasi\Latihan15\Latihan15\bin\Debug\net6.0-windows\Latihan15.dll
+E:\aplikasi\Latihan15\Latihan15\bin\Debug\net6.0-windows\Latihan15.pdb
+E:\aplikasi\Latihan15\Latihan15\obj\Debug\net6.0-windows\Latihan15.vbproj.AssemblyReference.cache
+E:\aplikasi\Latihan15\Latihan15\obj\Debug\net6.0-windows\Latihan15.Form1.resources
+E:\aplikasi\Latihan15\Latihan15\obj\Debug\net6.0-windows\Latihan15.vbproj.GenerateResource.cache
+E:\aplikasi\Latihan15\Latihan15\obj\Debug\net6.0-windows\Latihan15.GeneratedMSBuildEditorConfig.editorconfig
+E:\aplikasi\Latihan15\Latihan15\obj\Debug\net6.0-windows\Latihan15.AssemblyInfoInputs.cache
+E:\aplikasi\Latihan15\Latihan15\obj\Debug\net6.0-windows\Latihan15.AssemblyInfo.vb
+E:\aplikasi\Latihan15\Latihan15\obj\Debug\net6.0-windows\Latihan15.vbproj.CoreCompileInputs.cache
+E:\aplikasi\Latihan15\Latihan15\obj\Debug\net6.0-windows\Latihan15.dll
+E:\aplikasi\Latihan15\Latihan15\obj\Debug\net6.0-windows\refint\Latihan15.dll
+E:\aplikasi\Latihan15\Latihan15\obj\Debug\net6.0-windows\Latihan15.pdb
+E:\aplikasi\Latihan15\Latihan15\obj\Debug\net6.0-windows\Latihan15.genruntimeconfig.cache
+E:\aplikasi\Latihan15\Latihan15\obj\Debug\net6.0-windows\ref\Latihan15.dll
